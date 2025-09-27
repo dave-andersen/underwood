@@ -26,7 +26,8 @@ The front feet have a press-fit peg that goes into a circular bracket on the und
 The segment bumper isn't sized exactly. When I repaired my typewriter, I used it to
 patch missing parts, so I just cut sub-segments out of it with diagonal clippers
 and pushed them in place. I printed mine with sparse infill but it would probably be
-nicer with 100% infill.
+nicer with 100% infill. (I don't know if this is actually called a bumper - I just
+made up something that sounded right. If you know the right term, please let me know!)
 
 ## Usage
 
