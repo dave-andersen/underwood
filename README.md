@@ -1,6 +1,7 @@
-# Underwood Champion Typewriter Feet
+# Underwood Champion Typewriter Rubber Parts
 
-Replacement feet for a 1938 Underwood Champion portable typewriter.
+Replacement parts for a 1938 Underwood Champion portable typewriter:
+Replacement feet (front and back), and the bumper on the segment.
 
 ![Underside of the Underwood Champion typewriter](underside.jpg)
 
@@ -17,6 +18,15 @@ The front feet have a press-fit peg that goes into a circular bracket on the und
 
 *   `underwood_foot_front.scad`: OpenSCAD source file for the front feet.
 *   `underwood_foot_front.stl`: Exported STL file for the front feet.
+
+![Segment bumper](segment_bumper.png)
+
+*   `segment_bumper.scad` and `segment_bumper.stl`: The circular arc-shaped segment bumper.
+
+The segment bumper isn't sized exactly. When I repaired my typewriter, I used it to
+patch missing parts, so I just cut sub-segments out of it with diagonal clippers
+and pushed them in place. I printed mine with sparse infill but it would probably be
+nicer with 100% infill.
 
 ## Usage
 
